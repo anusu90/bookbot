@@ -1,3 +1,3 @@
 # bookbot
 
-Book bot project from lowlevel
+BookBot is my first project!
